@@ -43,19 +43,7 @@ We will also include a simple assistant that gives suggestions based on the avai
 The main aim of MAATRAM is not just to connect farmers with buyers. It is to help them find a solution when their harvested produce has no buyer, reducing financial losses and unnecessary food wastage.
 
 ## Technical Approach
-We plan to develop MAATRAM as a web application using HTML, CSS, JavaScript and React.js for the frontend. Python and Django will be used for the backend, and MySQL will be used to store farmer, buyer and crop details.
-
-We will use Python libraries such as Pandas and Scikit-learn to analyse inventory information and identify produce that may need urgent attention. Google Maps API will help display buyer locations and suggest suitable routes. Chart.js will be used to display information through charts.
-
-First, farmers will register on the platform and enter their crop details, including the quantity, harvest date and storage conditions. The system will maintain records of available, sold and unsold stock.
-
-Next, the system will check the available inventory and identify produce that may need to be sold quickly. It will then look for possible buyers based on crop type, quantity and location.
-
-Farmers can compare the available buyers, selling prices and estimated transportation costs. If a suitable buyer is not found, the system will suggest other options such as discounted sales or food-processing units.
-
-Farmers can review the suggestions and choose the option they prefer. A dashboard will display stock details, sales information and the quantity of produce successfully redirected to other buyers.
-
-For the initial prototype, we plan to use sample farmer and buyer details. Later, we can connect the platform with real farmers, FPOs and buyers.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/54c5f977-9b4a-4969-a362-fcc8b1b88308" />
 
 ## Feasibility and Viability
 MAATRAM can be developed using technologies that are already available. Since our team is planning to build a web application, we can start with basic features and improve the platform step by step.
